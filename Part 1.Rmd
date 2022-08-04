@@ -8,3 +8,4 @@ date: "2022-08-04"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Don't need to create an Rmarkdown file right away. Save to local repo and remote repo first.
